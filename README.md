@@ -11,6 +11,9 @@ https://youtu.be/anT5GB8Kp9o?si=AeIBQ19Nk5G0OhRM
 Agile Document
 [Agile document](https://github.com/user-attachments/files/24132761/Agile.document.group1.xls)
 
+Architecture
+<img width="1280" height="687" alt="architecture" src="https://github.com/user-attachments/assets/ed13d4f5-71e9-4606-affa-6b2cff6aa3d9" />
+
 
 ---
 
